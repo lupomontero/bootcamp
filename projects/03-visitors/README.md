@@ -11,14 +11,15 @@
 
 ## 1. Preámbulo
 
-Dentro de las medidas de distanciamiento social del co-working más famoso de tu
-ciudad se encuentra modernizar el proceso del registro de visitantes, hasta ahora
-este co-working solo tenía un registro manual de visitantes lo cual hacía incómodo
-el proceso al momento de firmar un registro o hablar con una persona encargada.
+Dentro de las medidas de distanciamiento social, el co-working más famoso de tu
+ciudad se encuentra en el proceso de modernizar el registro de visitantes. Hasta
+ahora, este co-working solo tenía un registro manual de visitantes, lo cual
+hacía incómodo el proceso al momento de firmar un registro o hablar con una
+persona encargada.
 
-Lxs administradorxs del co-working se dan cuenta que necesitan una forma moderna
-de registrar a lxs visitantes donde no tengan que interactuar con otra persona y
-por eso contratan a tu equipo.
+Lxs administradorxs del co-working se dan cuenta que necesitan una forma más
+moderna de registrar a lxs visitantes donde no tengan que interactuar
+físicamente con otra persona. Para esto contratan a tu equipo!
 
 ## 2. Resumen del proyecto
 
@@ -37,29 +38,57 @@ a presentar luego del tiempo estimado.
 Dado que deben presentar un prototipo, una amiga les recomienda usar un Framework
 de CSS para ahorrar tiempo con la parte visual del proyecto.
 
-Al conocer de la metodología ágil la administración de este co-working también
-te pide que les compartas las historias de usuarix que tu equipo planea trabajar.
-Para eso podrás usar herramientas como [GitHub Projects](https://github.com/features/project-management/)
-o [Trello](https://trello.com/) por ejemplo.
+Al conocer sobre la metodología ágil, la administración de este co-working
+también te pide que les compartas las historias de usuarix que tu equipo planea
+trabajar. Para eso podrás usar herramientas como
+[GitHub Projects](https://github.com/features/project-management/) o
+[Trello](https://trello.com/) por ejemplo.
 
 ## 3. Consideraciones generales
 
 - Este proyecto se debe resolver en equipos de 2 o más personas.
+
 - Este proyecto es "agnóstico" a la tecnología que uses, es decir que puedes
-  desarrollarlo en Vanilla JavaScript o algún _framework_ o biblioteca (librería)
-  de tu elección.
+  desarrollarlo en Vanilla JavaScript o algún _framework_ o biblioteca
+  (librería) de tu elección.
+
+- Opcionalmente, te invitamos también a explorar _frameworks_ de CSS o sistemas
+  de componentes de interfaz, como por ejemplo: [Bulma.io](https://bulma.io/), [Tailwindcss.com](https://tailwindcss.com/),
+  [Bootstrap](https://getbootstrap.com/), etc.
+
 - Intenta pensar en un alcance que, considerando su complejidad y la cantidad de
-  personas en el equipo, te permita terminar el proyecto en 3 semanas.
+  personas en el equipo, te permita terminar el proyecto dentro del tiempo
+  estimado.
+
+- La división y organización del trabajo debe permitir, sin excepciones, que
+  **cada integrante** del equipo practique el aprendizaje de todo lo involucrado
+  en **cada historia de usuarix**. No se dividan el trabajo como en una fábrica.
+  * ¿Hasta acá has avanzado en tus proyectos con cierta fluidez y sin mayores
+    problemas? Sé generosa con tus compañeras, permíteles aprender y practicar
+    sin restricciones, aunque tome un poco más de tiempo. Aproveha de
+    _coachearlas_, de hacer _pair programming_, una de las mejores maneras de
+    aprender es explicando verbalmente.
+
+  * ¿Se te está haciendo difícil y te cuesta un poco más avanzar? No te quedes
+    con las partes "fáciles" del proyecto, conversa, negocia, exige tu oportunidad
+    para practicar y aprender lo que se te hace más difícil.
+
+- Solamente pueden trabajar en una única historia por vez, no pueden avanzar a
+  la siguiente sin haber completado la anterior. La historia se completa cuando
+  se cumplen **todos** sus Criterios de Aceptación + **toda** su Definición
+  de Terminado.
+
+Para comenzar tendrás que hacer un _fork_ y _clonar_ este repositorio.
 
 ## 4. Objetivos de aprendizaje
 
-- Poner en práctica todo lo aprendido hasta ahora.
-- Diseñar y _testear_ un producto antes de desarrollarlo.
-- Usar Historias de Usuarix para dividir, comunicar y priorizar las tareas a
-  realizar.
-- Usar un _framework_ de CSS o un sistema de componentes de interfaz, como por ejemplo:
-  [Bulma.io](https://bulma.io/), [Tailwindcss.com](https://tailwindcss.com/),
-  [Bootstrap](https://getbootstrap.com/), etc.
+> ℹ️ Esta sección será auomáticamente generada en el idioma pertinente, a partir
+> de los objetivos de aprendizaje declarados en [`project.yml`](./project.yml),
+> al crear el repo del proyecto para un cohort en particular usando
+> [`./scripts/create-cohort-project.js`](../../scripts#create-cohort-project-coaches).
+>
+> Acá puedes ver una [lista de todos los objetivos de aprendizaje](../../learning-objectives/data.yml)
+> que contempla nuestra currícula.
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
